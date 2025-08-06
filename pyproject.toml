@@ -4,4 +4,7 @@ version = "0.1.0"
 description = "Project created for taking Anthropic's Claude course"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "anthropic>=0.61.0",
+    "python-dotenv>=1.1.1",
+]

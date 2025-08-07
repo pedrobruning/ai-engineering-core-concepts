@@ -45,8 +45,9 @@ This repository is a hands-on, end-to-end course and project on Anthropic's Clau
 
 
 ### 3. Prompt Evaluation
-- [ ] Evaluation workflows, test dataset generation
-- [ ] Model-based & code-based grading
+- [x] Evaluation workflows, test dataset generation
+- [x] Model-based grading (implemented)
+- [ ] Code-based grading (next steps)
 - [ ] Practical eval exercises & quiz
 - **📁 [Module 3: Prompt Evaluation](./module_3/)**
 

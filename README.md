@@ -32,69 +32,79 @@ This repository is a hands-on, end-to-end course and project on Anthropic's Clau
 
 
 ### 1. Introduction
-> Welcome, Anthropic overview, Claude model landscape
+- [x] Welcome, Anthropic overview, Claude model landscape
 
 
 ### 2. Accessing Claude with the API
-- API setup, authentication, and requests
-- Multi-turn conversations & chat exercises
-- System prompts, temperature, streaming
-- Controlling output, structured data
-- Quiz & feedback
+- [x] API setup, authentication, and requests
+- [x] Multi-turn conversations & chat exercises
+- [x] System prompts, temperature, streaming
+- [x] Controlling output, structured data
+- [x] Quiz & feedback
+- **📁 [Module 2: Accessing Claude with the API](./module_2/)**
 
 
 ### 3. Prompt Evaluation
-- Evaluation workflows, test dataset generation
-- Model-based & code-based grading
-- Practical eval exercises & quiz
+- [ ] Evaluation workflows, test dataset generation
+- [ ] Model-based & code-based grading
+- [ ] Practical eval exercises & quiz
+- **📁 [Module 3: Prompt Evaluation](./module_3/)**
 
 
 ### 4. Prompt Engineering Techniques
-- Clarity, specificity, XML structuring
-- Example-driven prompting
-- Prompting exercises & quiz
+- [ ] Clarity, specificity, XML structuring
+- [ ] Example-driven prompting
+- [ ] Prompting exercises & quiz
+- **📁 [Module 4: Prompt Engineering Techniques](./module_4/)**
 
 
 ### 5. Tool Use with Claude
-- Tool schemas, message blocks, tool results
-- Multi-turn & batch tool use
-- Structured data, text edit, web search
-- Tooling exercises & quiz
+- [ ] Tool schemas, message blocks, tool results
+- [ ] Multi-turn & batch tool use
+- [ ] Structured data, text edit, web search
+- [ ] Tooling exercises & quiz
+- **📁 [Module 5: Tool Use with Claude](./module_5/)**
 
 
 ### 6. Retrieval Augmented Generation (RAG)
-- Chunking, embeddings, RAG pipeline
-- BM25, multi-index, reranking
-- Contextual retrieval & quiz
+- [ ] Chunking, embeddings, RAG pipeline
+- [ ] BM25, multi-index, reranking
+- [ ] Contextual retrieval & quiz
+- **📁 [Module 6: Retrieval Augmented Generation](./module_6/)**
 
 
 ### 7. Features of Claude
-- Extended thinking, image & PDF support
-- Citations, prompt caching, code execution
-- Features quiz
+- [ ] Extended thinking, image & PDF support
+- [ ] Citations, prompt caching, code execution
+- [ ] Features quiz
+- **📁 [Module 7: Features of Claude](./module_7/)**
 
 
 ### 8. Model Context Protocol (MCP)
-- MCP clients, tool/resource definition
-- Server inspector, client implementation
-- Prompts, review & quiz
+- [ ] MCP clients, tool/resource definition
+- [ ] Server inspector, client implementation
+- [ ] Prompts, review & quiz
+- **📁 [Module 8: Model Context Protocol](./module_8/)**
 
 
 ### 9. Anthropic Apps: Claude Code & Computer Use
-- Claude Code setup, automation, debugging
-- MCP server enhancements, computer use
-- Apps quiz
+- [ ] Claude Code setup, automation, debugging
+- [ ] MCP server enhancements, computer use
+- [ ] Apps quiz
+- **📁 [Module 9: Anthropic Apps](./module_9/)**
 
 
 ### 10. Agents and Workflows
-- Agents, parallelization, chaining, routing
-- Tools, environment inspection
-- Workflows vs agents, quiz
+- [ ] Agents, parallelization, chaining, routing
+- [ ] Tools, environment inspection
+- [ ] Workflows vs agents, quiz
+- **📁 [Module 10: Agents and Workflows](./module_10/)**
 
 
 ### 11. Final Assessment & Wrap Up
-- Final project & assessment
-- Course wrap up
+- [ ] Final project & assessment
+- [ ] Course wrap up
+- **📁 [Module 11: Final Assessment](./module_11/)**
 
 
 ---

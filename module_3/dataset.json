@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Create a Python function to extract the AWS region from an EC2 instance ARN"
+  },
+  {
+    "task": "Write a JSON schema to validate the structure of an AWS Lambda function configuration"
+  },
+  {
+    "task": "Develop a regular expression to match valid AWS S3 bucket names (lowercase alphanumeric and hyphens, 3-63 characters)"
+  }
+]

@@ -1,11 +1,22 @@
 [
   {
-    "task": "Create a Python function to extract the AWS region from an EC2 instance ARN"
+    "task": "Create a JSON policy that restricts an IAM user to only list and read objects in a specific S3 bucket named 'company-data'",
+    "format": "json",
+    "solution_criteria": "Policy should use least privilege principles, explicitly allow s3:ListBucket and s3:GetObject actions only on the specified bucket, and deny all other S3 actions"
   },
   {
-    "task": "Write a JSON schema to validate the structure of an AWS Lambda function configuration"
+    "task": "Write a Python function to extract the AWS account ID from an ARN string",
+    "format": "python",
+    "solution_criteria": "Function should use efficient string parsing or regex, handle different ARN formats, return the account ID as a string, and be concise (< 5 lines of code)"
   },
   {
-    "task": "Develop a regular expression to match valid AWS S3 bucket names (lowercase alphanumeric and hyphens, 3-63 characters)"
+    "task": "Create a regex pattern to validate an AWS Lambda function name",
+    "format": "regex",
+    "solution_criteria": "Regex should enforce AWS Lambda function name rules: 1-64 characters, start with a letter, can contain letters, numbers, hyphens, and underscores"
+  },
+  {
+    "task": "Write a Python function to convert CloudWatch log timestamps to readable datetime",
+    "format": "python",
+    "solution_criteria": "Function should efficiently convert millisecond timestamps to a human-readable datetime format, handle potential timestamp variations, and be compact and readable"
   }
 ]

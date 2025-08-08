@@ -14,20 +14,20 @@ This module covers evaluation workflows, test dataset generation, and different 
 - [x] **Lesson 3.1**: Evaluation Workflows and EDD Overview
 - [x] **Lesson 3.2**: Test Dataset Generation for AWS Tasks
 - [x] **Lesson 3.3**: Model-based Grading Implementation
-- [ ] **Lesson 3.4**: Code-based Grading (Next Steps)
-- [ ] **Lesson 3.5**: Evaluation Best Practices and Exercises
+- [x] **Lesson 3.4**: Code-based Grading (Completed)
+- [x] **Lesson 3.5**: Evaluation Best Practices and Exercises
 
 ## Exercises
 - [x] Exercise 3.1: Create Evaluation Dataset (AWS-focused)
 - [x] Exercise 3.2: Implement Model-based Evaluation
-- [ ] Exercise 3.3: Build Code-based Grading System
-- [ ] Exercise 3.4: Practical Evaluation Workflow Exercises
+- [x] Exercise 3.3: Build Code-based Grading System
+- [x] Exercise 3.4: Practical Evaluation Workflow Exercises
 
 ## Implementation Status
 - ✅ **Completed**: Model-based grading system for AWS tasks
 - ✅ **Completed**: Dataset generation for Python, JSON, and Regex tasks
-- 🔄 **In Progress**: Code-based grading implementation
-- ⏳ **Pending**: Evaluation exercises and quiz
+- ✅ **Completed**: Code-based grading implementation
+- ✅ **Completed**: Evaluation exercises and quiz
 
 ## Module Files
 - `001_prompt_evals.ipynb` - Main implementation notebook
@@ -47,7 +47,7 @@ This module covers evaluation workflows, test dataset generation, and different 
 ## Progress Tracking
 - [x] Core evaluation concepts learned
 - [x] Model-based grading implemented
-- [ ] Code-based grading implemented
-- [ ] All exercises completed
-- [ ] Quiz passed
-- [ ] Module completed 
+- [x] Code-based grading implemented
+- [x] All exercises completed
+- [x] Quiz passed
+- [x] Module completed

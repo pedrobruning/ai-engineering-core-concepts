@@ -1,0 +1,65 @@
+[
+  {
+    "output": "Based on the given profile, here's a recommended 12-month investment strategy:\n\n1. Emergency Fund (Priority)\n- Build 3-6 months of living expenses (~$12,600-$24,200)\n- Keep in high-yield savings account\n- Provides financial buffer for income variability\n\n2. Investment Allocation\n- Monthly Savings: $1,000\n- Breakdown:\n  a) 50% ($500) - Emergency Fund\n  b) 30% ($300) - Low-cost index funds\n  c) 15% ($150) - Retirement account (SEP IRA or Solo 401k)\n  d) 5% ($50) - Cryptocurrency/higher risk investments\n\n3. Risk Management\n- Diversify income streams\n- Consider disability insurance\n- Maintain professional liability insurance\n\n4. Additional Recommendations\n- Track expenses closely\n- Build professional network\n- Upskill to increase earning potential\n- Consider tax-efficient investing strategies\n\n5. Short-term Goals\n- Establish consistent investment routine\n- Gradually increase investment percentage\n- Review and rebalance portfolio quarterly\n\nThis strategy balances security, growth, and flexibility for a freelance professional with moderate risk tolerance.",
+    "test_case": {
+      "prompt_inputs": {
+        "monthly_income": "5200",
+        "monthly_expenses": "4100",
+        "savings_goal": "1000",
+        "profile": "Freelance graphic designer with variable monthly earnings, moderate risk tolerance, seeking financial stability"
+      },
+      "solution_criteria": [
+        "Create a 12-month financial plan addressing income variability",
+        "Develop clear monthly savings strategy",
+        "Outline mechanisms for expense management",
+        "Provide strategies for building emergency fund"
+      ],
+      "task_description": "Write a compact, concise 12 months project plan for enhancing the financial life.",
+      "scenario": "Scenario testing a freelance creative professional with irregular income aiming to stabilize financial health and create consistent savings strategy"
+    },
+    "score": 7,
+    "reasoning": "The solution meets most mandatory criteria by providing a structured 12-month financial plan that addresses income variability, establishes a monthly savings strategy, and outlines basic risk management. The investment allocation shows thoughtful diversification and considers the freelance professional's unique financial context. However, the plan could benefit from more granular strategies for handling income fluctuations and more precise expense management techniques."
+  },
+  {
+    "output": "Based on the provided profile, here's a recommended 12-month investment strategy:\n\n1. Emergency Fund (20% of strategy)\n- Maintain 3-6 months of expenses in high-yield savings account\n- Approximately $15,600-$31,200\n- Use online banks offering 4-5% APY\n\n2. Aggressive Investment Allocation (60% of strategy)\nStock Market Investments:\n- 40% in broad market index ETFs (S&P 500, Total Market)\n- 10% in growth-oriented tech/innovation sector ETFs\n- 10% in international emerging market funds\n\n3. Alternative Investments (15% of strategy)\n- Cryptocurrency (5%): Bitcoin, Ethereum\n- Real estate crowdfunding platforms\n- Angel investing/startup equity\n\n4. High-Growth Potential (5% of strategy)\n- Individual stock picks in emerging technologies\n- Options trading strategies\n- Small-cap growth stocks\n\n5. Tax-Efficient Strategies\n- Maximize 401(k) contributions\n- Utilize Roth IRA\n- Consider backdoor Roth conversion\n- Tax-loss harvesting\n\nMonthly Action Plan:\n- Invest $2,500 monthly consistently\n- Rebalance portfolio quarterly\n- Continuously educate on market trends\n\nRisk Management:\n- Maintain diversification\n- Use stop-loss strategies\n- Regular portfolio review\n\nRecommendation: Consult financial advisor for personalized advice.",
+    "test_case": {
+      "prompt_inputs": {
+        "monthly_income": "9750",
+        "monthly_expenses": "5200",
+        "savings_goal": "2500",
+        "profile": "Risk-tolerant professional with diversified income from consulting and investments, mid-40s, seeking aggressive wealth optimization"
+      },
+      "solution_criteria": [
+        "Create a 12-month roadmap with clear financial milestones",
+        "Demonstrate strategies for investment diversification",
+        "Outline retirement planning recommendations",
+        "Balance savings goal with current income and expenses"
+      ],
+      "task_description": "Write a compact, concise 12 months project plan for enhancing the financial life.",
+      "scenario": "Scenario testing a mid-career individual with multiple income streams looking to optimize investments and retirement planning"
+    },
+    "score": 7,
+    "reasoning": "The solution provides a robust investment framework that addresses diversification and risk management. It aligns with the profile of a risk-tolerant professional seeking wealth optimization. However, it falls short in providing granular milestone tracking and precise retirement planning specifics. The strategy demonstrates a solid approach but lacks the precision required for a comprehensive 12-month financial roadmap."
+  },
+  {
+    "output": "Based on the given profile, here's a recommended 12-month investment strategy:\n\n1. Emergency Fund (Priority)\n- Build 3-6 months of expenses (~$9,600-$19,200)\n- Keep in high-yield savings account (4-5% APY)\n- Provides financial safety net\n\n2. Debt Management\n- Continue paying minimum student loan payments\n- Consider allocating extra funds to accelerate loan repayment\n- Potentially refinance loans if interest rates are high\n\n3. Retirement Savings\n- Contribute to 401(k) if employer match available\n- Aim for at least enough to get full employer match\n- Consider Roth IRA for tax-advantaged retirement savings\n- Recommended allocation: Conservative mix (~70-80% bonds, 20-30% stocks)\n\n4. Investment Allocation\n- Low-cost index funds\n- Focus on:\n  * Total market index funds\n  * Bond funds\n  * Small allocation to broad market ETFs\n- Recommended risk profile: Conservative to moderate-conservative\n\n5. Monthly Cash Flow Plan\n- Income: $4,500\n- Expenses: $3,200\n- Savings Goal: $800\n- Potential Investment/Debt Repayment: $500\n\nKey priorities: Financial stability, debt reduction, modest, low-risk growth",
+    "test_case": {
+      "prompt_inputs": {
+        "monthly_income": "4500",
+        "monthly_expenses": "3200",
+        "savings_goal": "800",
+        "profile": "Risk-averse young professional with student loan debt, seeking financial stability and modest investment growth"
+      },
+      "solution_criteria": [
+        "Create a 12-month plan that reduces monthly expenses by at least 10%",
+        "Develop a debt repayment strategy targeting student loans",
+        "Establish a clear monthly savings and investment roadmap",
+        "Provide actionable steps for financial improvement within current income constraints"
+      ],
+      "task_description": "Write a compact, concise 12 months project plan for enhancing the financial life.",
+      "scenario": "Scenario testing a user profile for a young professional with entry-level salary seeking rapid financial growth and debt management"
+    },
+    "score": 6,
+    "reasoning": "The solution provides a solid foundational financial plan that addresses key areas of financial management. It meets most secondary criteria but falls short on the mandatory requirement of reducing monthly expenses by 10%. The investment and savings recommendations are sound and tailored to the risk profile, but more concrete expense reduction tactics are needed."
+  }
+]

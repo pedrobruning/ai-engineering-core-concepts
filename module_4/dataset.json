@@ -1,0 +1,50 @@
+[
+  {
+    "prompt_inputs": {
+      "monthly_income": "9750",
+      "monthly_expenses": "5200",
+      "savings_goal": "2500",
+      "profile": "Risk-tolerant professional with diversified income from consulting and investments, mid-40s, seeking aggressive wealth optimization"
+    },
+    "solution_criteria": [
+      "Create a 12-month roadmap with clear financial milestones",
+      "Demonstrate strategies for investment diversification",
+      "Outline retirement planning recommendations",
+      "Balance savings goal with current income and expenses"
+    ],
+    "task_description": "Write a compact, concise 12 months project plan for enhancing the financial life.",
+    "scenario": "Scenario testing a mid-career individual with multiple income streams looking to optimize investments and retirement planning"
+  },
+  {
+    "prompt_inputs": {
+      "monthly_income": "5200",
+      "monthly_expenses": "4100",
+      "savings_goal": "1000",
+      "profile": "Freelance graphic designer with variable monthly earnings, moderate risk tolerance, seeking financial stability"
+    },
+    "solution_criteria": [
+      "Create a 12-month financial plan addressing income variability",
+      "Develop clear monthly savings strategy",
+      "Outline mechanisms for expense management",
+      "Provide strategies for building emergency fund"
+    ],
+    "task_description": "Write a compact, concise 12 months project plan for enhancing the financial life.",
+    "scenario": "Scenario testing a freelance creative professional with irregular income aiming to stabilize financial health and create consistent savings strategy"
+  },
+  {
+    "prompt_inputs": {
+      "monthly_income": "4500",
+      "monthly_expenses": "3200",
+      "savings_goal": "800",
+      "profile": "Risk-averse young professional with student loan debt, seeking financial stability and modest investment growth"
+    },
+    "solution_criteria": [
+      "Create a 12-month plan that reduces monthly expenses by at least 10%",
+      "Develop a debt repayment strategy targeting student loans",
+      "Establish a clear monthly savings and investment roadmap",
+      "Provide actionable steps for financial improvement within current income constraints"
+    ],
+    "task_description": "Write a compact, concise 12 months project plan for enhancing the financial life.",
+    "scenario": "Scenario testing a user profile for a young professional with entry-level salary seeking rapid financial growth and debt management"
+  }
+]

@@ -1,50 +1,160 @@
 [
   {
     "prompt_inputs": {
-      "monthly_income": "9750",
-      "monthly_expenses": "5200",
-      "savings_goal": "2500",
-      "profile": "Risk-tolerant professional with diversified income from consulting and investments, mid-40s, seeking aggressive wealth optimization"
+      "monthly_income": "3500",
+      "monthly_expenses": "2800",
+      "savings_goal": "500",
+      "profile": "Entry-level professional, risk-averse, seeking basic financial stability"
     },
     "solution_criteria": [
-      "Create a 12-month roadmap with clear financial milestones",
-      "Demonstrate strategies for investment diversification",
-      "Outline retirement planning recommendations",
-      "Balance savings goal with current income and expenses"
+      "Create a 12-month budget plan that reduces expenses by at least 10%",
+      "Develop a realistic savings strategy to meet monthly $500 goal",
+      "Provide clear, actionable monthly financial improvement steps"
     ],
     "task_description": "Write a compact, concise 12 months project plan for enhancing the financial life.",
-    "scenario": "Scenario testing a mid-career individual with multiple income streams looking to optimize investments and retirement planning"
+    "scenario": "Test with a user having limited financial literacy seeking basic budgeting guidance"
   },
   {
     "prompt_inputs": {
-      "monthly_income": "5200",
-      "monthly_expenses": "4100",
-      "savings_goal": "1000",
-      "profile": "Freelance graphic designer with variable monthly earnings, moderate risk tolerance, seeking financial stability"
+      "monthly_income": "18500",
+      "monthly_expenses": "6200",
+      "savings_goal": "5000",
+      "profile": "High-income tech executive, aggressive wealth growth, moderate risk tolerance"
     },
     "solution_criteria": [
-      "Create a 12-month financial plan addressing income variability",
-      "Develop clear monthly savings strategy",
-      "Outline mechanisms for expense management",
-      "Provide strategies for building emergency fund"
+      "Create a 12-month roadmap with clear financial milestones",
+      "Optimize investment and savings strategy",
+      "Identify wealth enhancement opportunities",
+      "Maximize tax-efficient wealth accumulation"
     ],
     "task_description": "Write a compact, concise 12 months project plan for enhancing the financial life.",
-    "scenario": "Scenario testing a freelance creative professional with irregular income aiming to stabilize financial health and create consistent savings strategy"
+    "scenario": "Test with a high-income professional looking for advanced wealth optimization strategies"
+  },
+  {
+    "prompt_inputs": {
+      "monthly_income": "4200",
+      "monthly_expenses": "3100",
+      "savings_goal": "500",
+      "profile": "Recent computer science graduate, risk-averse, entry-level tech job, high student loan burden"
+    },
+    "solution_criteria": [
+      "Create a 12-month financial roadmap addressing student loan management",
+      "Demonstrate strategies for building emergency savings",
+      "Outline career development milestones aligned with financial goals",
+      "Provide actionable monthly budget optimization recommendations"
+    ],
+    "task_description": "Write a compact, concise 12 months project plan for enhancing the financial life.",
+    "scenario": "Test with a recent college graduate managing student loans and entry-level career planning"
+  },
+  {
+    "prompt_inputs": {
+      "monthly_income": "8500",
+      "monthly_expenses": "5200",
+      "savings_goal": "1500",
+      "profile": "Risk-tolerant tech professional seeking career pivot from software engineering to fintech product management, mid-30s"
+    },
+    "solution_criteria": [
+      "Create a 12-month roadmap addressing career transition strategy",
+      "Outline investment reallocation plan with clear monthly milestones",
+      "Demonstrate ability to meet savings target while managing expenses"
+    ],
+    "task_description": "Write a compact, concise 12 months project plan for enhancing the financial life.",
+    "scenario": "Test with a mid-career professional seeking career transition and investment reallocation"
+  },
+  {
+    "prompt_inputs": {
+      "monthly_income": "8500",
+      "monthly_expenses": "6200",
+      "savings_goal": "1500",
+      "profile": "Risk-tolerant small business owner in consulting, seeking balanced growth strategy"
+    },
+    "solution_criteria": [
+      "Develop a clear 12-month financial enhancement roadmap",
+      "Include strategies for business revenue growth and personal financial security",
+      "Demonstrate monthly savings progress toward defined goal",
+      "Outline risk mitigation tactics for business and personal finances"
+    ],
+    "task_description": "Write a compact, concise 12 months project plan for enhancing the financial life.",
+    "scenario": "Test with a small business owner focusing on business growth and personal financial security"
   },
   {
     "prompt_inputs": {
       "monthly_income": "4500",
       "monthly_expenses": "3200",
-      "savings_goal": "800",
-      "profile": "Risk-averse young professional with student loan debt, seeking financial stability and modest investment growth"
+      "savings_goal": "1000",
+      "profile": "Freelance graphic designer with variable monthly earnings, moderate risk tolerance, needs flexible financial strategy"
     },
     "solution_criteria": [
-      "Create a 12-month plan that reduces monthly expenses by at least 10%",
-      "Develop a debt repayment strategy targeting student loans",
-      "Establish a clear monthly savings and investment roadmap",
-      "Provide actionable steps for financial improvement within current income constraints"
+      "Create a 12-month plan addressing income variability",
+      "Include strategies for consistent savings despite irregular income",
+      "Provide flexible budgeting recommendations",
+      "Outline emergency fund and financial stability tactics"
     ],
     "task_description": "Write a compact, concise 12 months project plan for enhancing the financial life.",
-    "scenario": "Scenario testing a user profile for a young professional with entry-level salary seeking rapid financial growth and debt management"
+    "scenario": "Test with a freelancer with irregular income needing flexible financial planning"
+  },
+  {
+    "prompt_inputs": {
+      "monthly_income": "5200",
+      "monthly_expenses": "4300",
+      "savings_goal": "900",
+      "profile": "Single parent, moderate risk tolerance, seeking financial stability and future security"
+    },
+    "solution_criteria": [
+      "Create a realistic 12-month financial plan",
+      "Balance monthly expenses with savings goals",
+      "Include strategies for emergency fund and long-term financial growth",
+      "Provide actionable monthly milestones"
+    ],
+    "task_description": "Write a compact, concise 12 months project plan for enhancing the financial life.",
+    "scenario": "Test with a single parent balancing family expenses and long-term financial goals"
+  },
+  {
+    "prompt_inputs": {
+      "monthly_income": "6500",
+      "monthly_expenses": "4200",
+      "savings_goal": "2000",
+      "profile": "Near-retirement professional, conservative risk tolerance, seeking capital preservation"
+    },
+    "solution_criteria": [
+      "Create a 12-month financial enhancement roadmap",
+      "Include strategies for retirement savings consolidation",
+      "Recommend risk mitigation approaches",
+      "Outline clear monthly savings/investment targets"
+    ],
+    "task_description": "Write a compact, concise 12 months project plan for enhancing the financial life.",
+    "scenario": "Test with a near-retirement individual looking to consolidate and protect retirement savings"
+  },
+  {
+    "prompt_inputs": {
+      "monthly_income": "8500",
+      "monthly_expenses": "5200",
+      "savings_goal": "2000",
+      "profile": "International tech professional with EU/US dual citizenship, moderate risk tolerance, requires cross-border financial strategy"
+    },
+    "solution_criteria": [
+      "Create a 12-month financial enhancement roadmap",
+      "Address cross-border investment and savings opportunities",
+      "Optimize tax-efficient wealth accumulation",
+      "Balance short-term expenses with long-term financial goals"
+    ],
+    "task_description": "Write a compact, concise 12 months project plan for enhancing the financial life.",
+    "scenario": "Test with an international professional managing cross-border financial considerations"
+  },
+  {
+    "prompt_inputs": {
+      "monthly_income": "8500",
+      "monthly_expenses": "5200",
+      "savings_goal": "2000",
+      "profile": "Young tech entrepreneur, high risk tolerance, seeking aggressive wealth acceleration"
+    },
+    "solution_criteria": [
+      "Create a 12-month project plan targeting 100% savings goal achievement",
+      "Outline investment and risk management strategies",
+      "Demonstrate clear monthly financial progression",
+      "Balance growth opportunities with financial stability"
+    ],
+    "task_description": "Write a compact, concise 12 months project plan for enhancing the financial life.",
+    "scenario": "Test with a young entrepreneur seeking aggressive growth and risk management strategies"
   }
 ]

@@ -4,8 +4,8 @@
 This module covers clarity, specificity, XML structuring, example-driven prompting, and various prompting exercises.
 
 ## Lessons
-- [ ] **Lesson 4.1**: Clarity in Prompting
-- [ ] **Lesson 4.2**: Specificity Techniques
+- [X] **Lesson 4.1**: Clarity in Prompting
+- [X] **Lesson 4.2**: Specificity Techniques
 - [ ] **Lesson 4.3**: XML Structuring
 - [ ] **Lesson 4.4**: Example-driven Prompting
 - [ ] **Lesson 4.5**: Advanced Prompting Patterns

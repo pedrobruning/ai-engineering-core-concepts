@@ -6,26 +6,26 @@ This module covers clarity, specificity, XML structuring, example-driven prompti
 ## Lessons
 - [X] **Lesson 4.1**: Clarity in Prompting
 - [X] **Lesson 4.2**: Specificity Techniques
-- [ ] **Lesson 4.3**: XML Structuring
-- [ ] **Lesson 4.4**: Example-driven Prompting
-- [ ] **Lesson 4.5**: Advanced Prompting Patterns
+- [X] **Lesson 4.3**: XML Structuring
+- [X] **Lesson 4.4**: Example-driven Prompting
+- [X] **Lesson 4.5**: Advanced Prompting Patterns
 
 ## Exercises
 - [X] Exercise 4.1: Clarity Improvement
 - [X] Exercise 4.2: Specificity Enhancement
-- [ ] Exercise 4.3: XML Structure Implementation
-- [ ] Exercise 4.4: Example-driven Prompt Creation
-- [ ] Exercise 4.5: Advanced Prompting Challenge
+- [X] Exercise 4.3: XML Structure Implementation
+- [X] Exercise 4.4: Example-driven Prompt Creation
+- [X] Exercise 4.5: Advanced Prompting Challenge
 
 ## Quiz
-- [ ] Module 4 Quiz
+- [X] Module 4 Quiz
 
 ## Resources
 - Official Course: [Claude with the Anthropic API](https://anthropic.skilljar.com/claude-with-the-anthropic-api)
 - Anthropic Documentation: [https://docs.anthropic.com/](https://docs.anthropic.com/)
 
 ## Progress Tracking
-- [ ] All lessons completed
-- [ ] All exercises completed
-- [ ] Quiz passed
-- [ ] Module completed 
+- [X] All lessons completed
+- [X] All exercises completed
+- [X] Quiz passed
+- [X] Module completed 

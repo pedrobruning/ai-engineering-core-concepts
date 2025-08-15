@@ -1,0 +1,70 @@
+[
+  {
+    "output": "\n[\n    \"Cross-cultural Psychological Research\",\n    \"Multilingual Cognitive Processing\",\n    \"Neural Plasticity\",\n    \"Emotional Regulation Strategies\"\n]\n",
+    "test_case": {
+      "prompt_inputs": {
+        "content": "Cross-cultural psychological research reveals complex interactions between cognitive processing and emotional regulation strategies among multilingual populations. Neuroimaging studies suggest that individuals who speak multiple languages demonstrate enhanced executive function and more nuanced emotional modulation compared to monolingual counterparts, potentially due to increased neural plasticity and cognitive flexibility developed through linguistic diversity."
+      },
+      "solution_criteria": [
+        "Accurately extract 3-5 core topics from the text",
+        "Represent topics as a JSON array of strings",
+        "Capture both broad conceptual and specific research domains mentioned"
+      ],
+      "task_description": "\"\n    Extract topics out of a passage of text from a scholarly article into a JSON array of strings\n    ",
+      "scenario": "Testing handling of multilingual academic text with complex sentence structures in psychology research"
+    },
+    "score": 10,
+    "reasoning": "The solution fully meets all mandatory and secondary criteria. The topics accurately represent the key conceptual areas discussed in the text, are presented as a JSON array of strings, and cover the cognitive, psychological, and neurological themes of the passage."
+  },
+  {
+    "output": "\n[\n    \"Indigenous Cultural Practices\",\n    \"Mapuche Community Resilience\",\n    \"Cultural Transmission and Resistance\",\n    \"Ritual Performance and Social Memory\"\n]\n",
+    "test_case": {
+      "prompt_inputs": {
+        "content": "Contemporary anthropological research on indigenous cultural practices reveals complex intersections between ritual performance, social memory, and technological adaptation. The Mapuche communities of southern Chile demonstrate remarkable resilience through ceremonial practices that simultaneously preserve ancestral knowledge and negotiate contemporary social transformations. By analyzing ritual dance, oral storytelling, and material culture, researchers can trace intricate pathways of cultural transmission and resistance against historical marginalization."
+      },
+      "solution_criteria": [
+        "Accurately extract 3-5 primary topics from the text",
+        "Represent topics as a valid JSON array of strings",
+        "Capture interdisciplinary themes present in the passage"
+      ],
+      "task_description": "\"\n    Extract topics out of a passage of text from a scholarly article into a JSON array of strings\n    ",
+      "scenario": "Testing extraction of interdisciplinary topics from a humanities research paper about cultural anthropology"
+    },
+    "score": 10,
+    "reasoning": "The solution meets all mandatory and secondary criteria with high fidelity. The topics extracted represent the scholarly text's core themes, are presented as a clean JSON array of strings, and capture the interdisciplinary nature of the anthropological research without extraneous commentary."
+  },
+  {
+    "output": "\n[\n    \"Microplastic Pollution\",\n    \"Marine Ecosystem Impact\",\n    \"Nanoplastic Cellular Penetration\",\n    \"Marine Biodiversity Risks\"\n]\n",
+    "test_case": {
+      "prompt_inputs": {
+        "content": "Microplastic pollution in marine ecosystems represents a critical environmental challenge with far-reaching ecological implications. Recent studies have demonstrated that nanoplastic particles can penetrate cellular membranes in marine organisms, potentially disrupting metabolic processes and causing oxidative stress in phytoplankton populations. The bioaccumulation of these microscopic polymeric fragments through marine food webs poses significant risks to biodiversity and ecosystem stability, particularly in coastal and deep-ocean environments."
+      },
+      "solution_criteria": [
+        "Accurately extract key scientific topics from the text",
+        "Capture both broad and specific domain-specific concepts",
+        "Represent topics as a valid JSON array of strings"
+      ],
+      "task_description": "\"\n    Extract topics out of a passage of text from a scholarly article into a JSON array of strings\n    ",
+      "scenario": "Testing topic extraction from a dense scientific article with highly specialized terminology in environmental science"
+    },
+    "score": 9,
+    "reasoning": "The solution successfully extracts core scientific topics from the passage, representing the key themes of microplastic pollution, marine ecosystem impacts, cellular interactions, and biodiversity risks. The topics are presented as a clean JSON array of strings, meeting all mandatory requirements with high fidelity to the original text."
+  },
+  {
+    "output": "\n[\n    \"Phenomenological Consciousness\",\n    \"Subjective Experience\", \n    \"Intentional Perception\",\n    \"Embodied Awareness\",\n    \"Meaning-Making Process\"\n]\n",
+    "test_case": {
+      "prompt_inputs": {
+        "content": "Phenomenological consciousness represents a complex hermeneutic framework through which subjective experience emerges as a dynamic interplay between intentional perception and pre-reflective embodied awareness. Philosophers like Husserl and Merleau-Ponty have argued that consciousness is not merely a passive receptor but an active, constitutive process of meaning-making that transcends traditional subject-object dichotomies."
+      },
+      "solution_criteria": [
+        "Correctly identify key philosophical concepts",
+        "Extract proper academic topics from the text",
+        "Represent topics as a JSON array of strings"
+      ],
+      "task_description": "\"\n    Extract topics out of a passage of text from a scholarly article into a JSON array of strings\n    ",
+      "scenario": "Testing topic extraction from a short scholarly text with abstract philosophical concepts and nuanced academic language"
+    },
+    "score": 10,
+    "reasoning": "The solution fully meets all mandatory and secondary criteria. It successfully extracts core philosophical topics from the passage, represents them as a clean JSON array of strings, and captures the essential conceptual elements without extraneous commentary."
+  }
+]

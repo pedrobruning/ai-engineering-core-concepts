@@ -11,8 +11,8 @@ This module covers clarity, specificity, XML structuring, example-driven prompti
 - [ ] **Lesson 4.5**: Advanced Prompting Patterns
 
 ## Exercises
-- [ ] Exercise 4.1: Clarity Improvement
-- [ ] Exercise 4.2: Specificity Enhancement
+- [X] Exercise 4.1: Clarity Improvement
+- [X] Exercise 4.2: Specificity Enhancement
 - [ ] Exercise 4.3: XML Structure Implementation
 - [ ] Exercise 4.4: Example-driven Prompt Creation
 - [ ] Exercise 4.5: Advanced Prompting Challenge

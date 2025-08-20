@@ -61,7 +61,7 @@ This repository is a hands-on, end-to-end course and project on Anthropic's Clau
 
 ### 5. Tool Use with Claude
 - [X] Tool schemas, message blocks, tool results
-- [ ] Multi-turn & batch tool use
+- [X] Multi-turn & batch tool use
 - [ ] Structured data, text edit, web search
 - [ ] Tooling exercises & quiz
 - **📁 [Module 5: Tool Use with Claude](./module_5/)**

@@ -53,14 +53,14 @@ This repository is a hands-on, end-to-end course and project on Anthropic's Clau
 
 
 ### 4. Prompt Engineering Techniques
-- [ ] Clarity, specificity, XML structuring
-- [ ] Example-driven prompting
-- [ ] Prompting exercises & quiz
+- [X] Clarity, specificity, XML structuring
+- [X] Example-driven prompting
+- [X] Prompting exercises & quiz
 - **📁 [Module 4: Prompt Engineering Techniques](./module_4/)**
 
 
 ### 5. Tool Use with Claude
-- [ ] Tool schemas, message blocks, tool results
+- [X] Tool schemas, message blocks, tool results
 - [ ] Multi-turn & batch tool use
 - [ ] Structured data, text edit, web search
 - [ ] Tooling exercises & quiz

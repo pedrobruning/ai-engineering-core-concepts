@@ -9,7 +9,7 @@ This module covers tool schemas, message blocks, tool results, multi-turn and ba
 - [X] **Lesson 5.3**: Multi-turn Tool Use
 - [X] **Lesson 5.4**: Batch Tool Operations
 - [X] **Lesson 5.5**: Structured Data with Tools
-- [ ] **Lesson 5.6**: Text Editing Tools
+- [X] **Lesson 5.6**: Text Editing Tools
 - [ ] **Lesson 5.7**: Web Search Integration
 
 ## Exercises
@@ -17,7 +17,7 @@ This module covers tool schemas, message blocks, tool results, multi-turn and ba
 - [X] Exercise 5.2: Multi-turn Tool Conversation
 - [X] Exercise 5.3: Batch Tool Processing
 - [X] Exercise 5.4: Structured Data Tool Creation
-- [ ] Exercise 5.5: Text Editing Tool Development
+- [X] Exercise 5.5: Text Editing Tool Development
 - [ ] Exercise 5.6: Web Search Tool Integration
 
 ## Quiz
